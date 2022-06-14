@@ -29,7 +29,7 @@ const pages = {
     providers: true
   },
   amnesia: {
-    title: "recover_password",
+    title: "Восстановить пароль",
     button: "send_recovery_email",
     button_saving: "sending_recovery_email",
     email: true,
@@ -37,8 +37,8 @@ const pages = {
     link_text: "never_mind"
   },
   recovery: {
-    title: "recover_password",
-    button: "update_password",
+    title: "Восстановить_пароль",
+    button: "Обновить_пароль",
     button_saving: "updating_password",
     password: "new-password",
     link: "login",
